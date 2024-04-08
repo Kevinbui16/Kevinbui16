@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bùi nguyên" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bùi nguyên" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kevin bui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin bui" height="30" width="40" /></a>
-<a href="https://fb.com/bùi nguyên" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bùi nguyên" height="30" width="40" /></a>
-<a href="https://instagram.com/bkhooinguyeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkhooinguyeen" height="30" width="40" /></a>
+<a href="https://codepen.io/B-i-Nguy-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bùi nguyên" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-bui-a268b5276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin bui" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bui.nguyen.58118774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bùi nguyên" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bkhooinguyeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkhooinguyeen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
