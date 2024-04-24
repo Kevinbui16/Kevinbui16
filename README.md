@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x2OWwwYnF2dzc3bzZoc3NrbzF5dXBkNTlubGFmZ3N6cGFuc2xjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinbui16&label=Profile%20views&color=0e75b6&style=flat" alt="kevinbui16" /> </p>
 
-- 🔭 I’m currently working on [Electricity-Consumption-Prediction](https://github.com/Kevinbui16/Electricity-Consumption-Prediction)
+- 🔭 I’m currently working on [Electricity-Consumption](https://github.com/Kevinbui16/Electricity-Consumption-Prediction)
 
 - 🌱 I’m currently learning **Deep Learning, AI**
 
