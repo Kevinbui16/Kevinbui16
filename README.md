@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kelvinbui0906115598@gmail.com**
 
-- ⚡ Fun fact **I think i am very hilarious.**
+- ⚡ Fun fact **I think I am very energetic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
