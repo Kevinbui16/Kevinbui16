@@ -1,21 +1,24 @@
 <img align="center" width="100%" height="550" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
-<h1 align="center">Hi 👋, I'm Khoi Nguyen Bui</h1>
+<h1 align="center">Hi 👋, I'm Kevin Bui</h1>
 <h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
 
 
-
 <img align="right" alt="Coding" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x2OWwwYnF2dzc3bzZoc3NrbzF5dXBkNTlubGFmZ3N6cGFuc2xjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
-- 🔭 I’m currently working on [Electricity-Consumption](https://github.com/Kevinbui16/Electricity-Consumption-Prediction)
 
-- 🌱 I’m currently learning **Deep Learning, AI**
 
-- 💬 Ask me about **data, statistic and analyze**
+  - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
-- 📫 How to reach me **kelvinbui0906115598@gmail.com**
+  - 🌱 I’m currently learning **Deep Learning, AI**
+
+- 💬 Ask me about **Data, AI and Statistic**
+
+- 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
 - ⚡ Fun fact **I think I am very energetic.**
-
- Socials:
+ 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
 
 
 
@@ -93,10 +96,9 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
+
 
 
 
