@@ -23,9 +23,9 @@
 <br><br>
 <br><br>
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbui16&show_icons=true&locale=en&layout=compact" alt="kevinbui16" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=tokyonight" alt="kevinbui16" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbui16&" alt="kevinbui16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinbui16&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="kevinbui16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="kevinbui16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinbui16&theme=neon&hide_border=false" alt="kevinbui16" /></p>
 
 # 🚀 Featured Projects
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
