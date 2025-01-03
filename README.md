@@ -15,10 +15,14 @@
 - 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
 - ⚡ Fun fact **I think I am very energetic.**
- 
-<div align="left">
+
+<br><br>
+<br><br>
+<br><br>
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
+<br><br>
 
 
 
