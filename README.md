@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinbui16&show_icons=true&locale=en" alt="kevinbui16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbui16&" alt="kevinbui16" /></p>
+
+
+![snake gif](https://github.com/Kevinbui16/Kevinbui16/blob/output/github-snake-dark.svg)
+
