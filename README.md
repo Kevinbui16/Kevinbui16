@@ -3,20 +3,32 @@
 <h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
 
 
-<img align="right" alt="Coding" height="250" src="https://i.giphy.com/FoVzfcqCDSb7zCynOp.webp">
 
- - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
-  - 🌱 I’m currently learning **Deep Learning, AI**
 
-- 💬 Ask me about **Data, AI and Statistic**
+
+
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+- 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
+
+- 💬 Ask me about **Data and AI**
 
 - 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
-- ⚡ Fun fact **I think I am very energetic.**
-  
+- ⚡ Fun fact **I am very Energetic.**
 
-<br></br>
+<br><br>
+<br><br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbui16&show_icons=true&locale=en&layout=compact" alt="kevinbui16" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=tokyonight" alt="kevinbui16" /></p>
@@ -65,14 +77,6 @@
 <a href="https://www.facebook.com/bui.nguyen.58118774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bùi nguyên" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bkhooinguyeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkhooinguyeen" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinbui16&label=Profile%20views&color=0e75b6&style=flat" alt="kevinbui16" /> </p>
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
 
 
 
