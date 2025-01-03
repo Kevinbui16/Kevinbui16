@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I think I am very energetic.**
 
-![Kevin GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=radical)
 
 
 
@@ -50,7 +49,7 @@
 
 <a href="https://github.com/Kevinbui16/Electricity-Consumption-Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=Electricity-Consumption-Prediction&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=Electricity-Consumption-Prediction&theme=onedark" />
 </a>
 
 
@@ -71,7 +70,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbui16&show_icons=true&locale=en&layout=compact" alt="kevinbui16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinbui16&show_icons=true&locale=en" alt="kevinbui16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=tokyonight" alt="kevinbui16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbui16&" alt="kevinbui16" /></p>
 
