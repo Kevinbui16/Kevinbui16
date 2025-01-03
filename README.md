@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="550" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 <h1 align="center">Hi 👋, I'm Kevin Bui</h1>
-<h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
+<h3 align="center">A passionate Data Scientist from Vietnam and am currently studying in Australia.</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="view" /> </p>
 
-- 👨🏼‍🎓 I'm studying computer science at Deakin University
+- 👨🏼‍🎓 I'm studying Computer Science at Deakin University
   
 - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
