@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think I am very energetic.**
  
-<div align="center">
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
