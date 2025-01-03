@@ -17,16 +17,12 @@
 
 ![Kevin GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=radical)
 
-<a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis-Dashboard">
+
+
+<a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis-Dashboard&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis&theme=radical" />
 </a>    
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis-Dashboard&theme=radical)](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis-Dashboard)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
