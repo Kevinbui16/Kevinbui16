@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
 
 
-<img align="right" alt="Coding" height="350" src="https://i.giphy.com/FoVzfcqCDSb7zCynOp.webp">
+<img align="right" alt="Coding" height="250" src="https://i.giphy.com/FoVzfcqCDSb7zCynOp.webp">
 
  - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
@@ -16,7 +16,6 @@
 - ⚡ Fun fact **I think I am very energetic.**
   
 
-<br></br>
 <br></br>
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbui16&show_icons=true&locale=en&layout=compact" alt="kevinbui16" /></p>
