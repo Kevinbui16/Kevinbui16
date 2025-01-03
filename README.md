@@ -3,10 +3,9 @@
 <h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
 
 
-<img align="right" alt="Coding" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x2OWwwYnF2dzc3bzZoc3NrbzF5dXBkNTlubGFmZ3N6cGFuc2xjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
+<img align="right" alt="Coding" height="350" src="https://i.giphy.com/FoVzfcqCDSb7zCynOp.webp">
 
-
-  - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
+ - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
   - 🌱 I’m currently learning **Deep Learning, AI**
 
@@ -15,12 +14,17 @@
 - 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
 - ⚡ Fun fact **I think I am very energetic.**
+  
+<br><br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+<br><br>
 
 
-
-
-
-
+<br></br>
+<br></br>
+<br></br>
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbui16&show_icons=true&locale=en&layout=compact" alt="kevinbui16" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=tokyonight" alt="kevinbui16" /></p>
@@ -75,11 +79,7 @@
 
 
 
-<br><br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-<br><br>
+
 
 
 
