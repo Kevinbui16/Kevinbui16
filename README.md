@@ -69,11 +69,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinbui16&label=Profile%20views&color=0e75b6&style=flat" alt="kevinbui16" /> </p>
 
 
-<br><br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
-<br><br>
 
 
 
