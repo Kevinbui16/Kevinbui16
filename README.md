@@ -19,10 +19,44 @@
 
 
 
+
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis&theme=radical" />
+</a>   
+<a href="https://github.com/Kevinbui16/Traffic-Jam-Object-Detection">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=Traffic-Jam-Object-Detection&theme=dark" />
+</a>
+
+
+<a href="https://github.com/Kevinbui16/NutriSync">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=NutriSync&theme=gruvbox" />
 </a>    
+<a href="https://github.com/Kevinbui16/HandDraw-AI">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=HandDraw-AI&theme=merko" />
+</a>
+
+<a href="https://github.com/Kevinbui16/Vegetable-Detection-Deep-Learning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=Vegetable-Detection-Deep-Learning&theme=highcontrast" />
+</a>    
+<a href="https://github.com/Kevinbui16/Stroke-Detection-ML">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=Stroke-Detection-ML&theme=cobalt" />
+</a> 
+
+<a href="https://github.com/Kevinbui16/Electricity-Consumption-Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=Electricity-Consumption-Prediction&theme=synthwave" />
+</a>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
