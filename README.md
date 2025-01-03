@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kevin Bui</h1>
 <h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
 
-
-
-
-
-
-
-
+<br><br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+<br><br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -21,12 +19,6 @@
 - 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
 - ⚡ Fun fact **I am very Energetic.**
-
-<br><br>
-<br><br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
 
 
 # 📊 GitHub Stats:
