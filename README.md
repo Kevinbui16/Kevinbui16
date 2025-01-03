@@ -3,24 +3,24 @@
 <h3 align="center">A passionate data scientist from Vietnam and am currently studying in Australia.</h3>
 
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
-- 💬 Ask me about **Data and AI**
+- 🌱 I’m currently learning **Data and AI**
+
+- 💬 Ask me about **Android , MEARN**
 
 - 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
 - ⚡ Fun fact **I am very Energetic.**
 
-
+<br><br>
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbui16&show_icons=true&locale=en&layout=compact" alt="kevinbui16" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=tokyonight" alt="kevinbui16" /></p>
@@ -71,7 +71,9 @@
 </p>
 
 
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
 
 ![snake gif](https://github.com/Kevinbui16/Kevinbui16/blob/output/github-snake-dark.svg)
 
