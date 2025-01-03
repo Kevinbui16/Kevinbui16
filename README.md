@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
 
-- 🌱 I’m currently learning **Data and AI**
-
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Data and AI**
 
 - 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
