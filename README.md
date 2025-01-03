@@ -15,6 +15,19 @@
 
 - ⚡ Fun fact **I think I am very energetic.**
 
+![Kevin GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinbui16&show_icons=true&theme=radical)
+
+<a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis-Dashboard">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis-Dashboard&theme=radical" />
+</a>    
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis-Dashboard&theme=radical)](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis-Dashboard)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/B-i-Nguy-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bùi nguyên" height="30" width="40" /></a>
