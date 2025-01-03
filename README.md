@@ -16,13 +16,8 @@
 
 - ⚡ Fun fact **I think I am very energetic.**
 
-<br><br>
-<br><br>
-<br><br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-<br><br>
+
+
 
 
 
@@ -80,7 +75,11 @@
 
 
 
-
+<br><br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+<br><br>
 
 
 
