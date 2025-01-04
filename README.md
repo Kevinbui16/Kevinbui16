@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="kevinbui16" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinbui16&theme=neon&hide_border=false" alt="kevinbui16" /></p>
 
-<h1 align="center">🚀 Featured Projects</h1>
+# 🚀 Featured Projects
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis&theme=radical" />
