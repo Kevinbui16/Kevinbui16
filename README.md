@@ -1,10 +1,12 @@
 <img align="center" width="100%" height="550" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=Hi+%F0%9F%91%8B+I'm+Kevin+Bui;Automation+%26+AI+Specialist+at+H1+Healthcare;Vietnamese-Australian+%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%A6%F0%9F%87%BA+Based+in+Melbourne;Computer+Science+%40+Deakin+University" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Kevin+Bui;Automation+%26+AI+Specialist+at+H1+Healthcare;Vietnamese-Australian+🇻🇳🇦🇺+%7C+Based+in+Melbourne;Computer+Science+%40+Deakin+University)](https://git.io/typing-svg)
+
+
+</div>
+
 
 <div align="center">
 
@@ -179,7 +181,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 # 🌐 Socials:
 <p align="left">
@@ -199,7 +200,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descAlign=50&animation=twinkling"/>
 
 
 
