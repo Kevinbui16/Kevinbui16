@@ -210,14 +210,6 @@
 </div>
 
 
-# 🌐 Socials:
-<p align="left">
-<a href="https://codepen.io/B-i-Nguy-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bùi nguyên" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kevin-bui-a268b5276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin bui" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bui.nguyen.58118774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bùi nguyên" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bkhooinguyeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkhooinguyeen" height="30" width="40" /></a>
-</p>
-
 # ✍️ Random Dev Quote:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
