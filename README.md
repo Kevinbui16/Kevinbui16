@@ -6,7 +6,6 @@
 
 </div>
 
-<br>
 
 <!-- ===== CONNECT (CENTER) ===== -->
 <div align="center">
@@ -30,24 +29,18 @@
 
 </div>
 
-<br>
-
 <!-- ===== INFO (CENTER) ===== -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kevinbui16&label=Profile%20views&color=0e75b6&style=flat" alt="view"/>
+### 👨🏼‍🎓 I'm studying **Computer Science at Deakin University**
 
-<br><br>
+### 🔭 I’m currently working on **[AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)**
 
-👨🏼‍🎓 I'm studying **Computer Science at Deakin University**
+### 💬 Ask me about **Data and AI**
 
-🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
+### 📫 How to reach me **khoinguyenbui2004@gmail.com**
 
-💬 Ask me about **Data and AI**
-
-📫 How to reach me **khoinguyenbui2004@gmail.com**
-
-⚡ Fun fact **I am very Energetic.**
+### ⚡ Fun fact **I am very Energetic.**
 
 </div>
 
