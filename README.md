@@ -1,32 +1,57 @@
-<img align="center" width="100%" height="550" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Kevin+Bui;Automation+%26+AI+Specialist+at+H1+Healthcare;Vietnamese-Australian+🇻🇳🇦🇺+%7C+Based+in+Melbourne;Computer+Science+%40+Deakin+University)](https://git.io/typing-svg)
 
-
 </div>
 
+<br>
+
+<!-- ===== CONNECT (CENTER) ===== -->
 <div align="center">
 
 
-<img align="right" alt="Coding" width="420" height="300" src="https://i.giphy.com/FoVzfcqCDSb7zCynOp.webp">
+<a href="https://www.linkedin.com/in/kevin-bui-a268b5276/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:khoinguyenbui2004@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/bui.nguyen.58118774/">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/bkhooinguyeen/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://codepen.io/B-i-Nguy-n">
+  <img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white"/>
+</a>
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="view" /> </p>
+<br>
 
-- 👨🏼‍🎓 I'm studying **Computer Science at Deakin University**
-  
-- 🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
+<!-- ===== INFO (CENTER) ===== -->
+<div align="center">
 
-- 💬 Ask me about **Data and AI**
-
-- 📫 How to reach me **khoinguyenbui2004@gmail.com**
-
-- ⚡ Fun fact **I am very Energetic.**
+<img src="https://komarev.com/ghpvc/?username=Kevinbui16&label=Profile%20views&color=0e75b6&style=flat" alt="view"/>
 
 <br><br>
-<br><br>
+
+👨🏼‍🎓 I'm studying **Computer Science at Deakin University**
+
+🔭 I’m currently working on [AdventureWorks Analysis](https://github.com/Kevinbui16/AdventureWorks-Data-Analysis)
+
+💬 Ask me about **Data and AI**
+
+📫 How to reach me **khoinguyenbui2004@gmail.com**
+
+⚡ Fun fact **I am very Energetic.**
+
+</div>
+
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Kevinbui16&&theme=radical" alt="GitHub Streak" />
@@ -193,7 +218,7 @@
 <a href="https://www.instagram.com/bkhooinguyeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkhooinguyeen" height="30" width="40" /></a>
 </p>
 
-# ✍️ Random Dev Quote
+# ✍️ Random Dev Quote:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
@@ -204,6 +229,21 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descAlign=50&animation=twinkling"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
