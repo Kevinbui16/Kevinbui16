@@ -6,11 +6,8 @@
 
 </div>
 
-
-<!-- ===== CONNECT (CENTER) ===== -->
 <div align="center">
-
-
+  
 <a href="https://www.linkedin.com/in/kevin-bui-a268b5276/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
@@ -29,7 +26,6 @@
 
 </div>
 
-<!-- ===== INFO (CENTER) ===== -->
 <div align="center">
 
 ### 👨🏼‍🎓 I'm studying **Computer Science at Deakin University**
@@ -44,9 +40,6 @@
 
 </div>
 
-
-
-
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Kevinbui16&&theme=radical" alt="GitHub Streak" />
@@ -56,8 +49,6 @@
   <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Kevinbui16&&theme=sunset_dark" alt="GitHub Stats" />
   <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Kevinbui16&&theme=dracula" alt="Top Languages" />
 </div>
-
-
 
 # 🚀 Featured Projects
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
@@ -94,7 +85,6 @@
 
 
 # 💻 Tech Stack: 
-
 
 <details open>
 <summary><b><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20"> Automation & Integration</b></summary>
@@ -206,7 +196,6 @@
 
 </div>
 
-
 # ✍️ Random Dev Quote:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -214,7 +203,6 @@
 
 
 ![snake gif](https://github.com/Kevinbui16/Kevinbui16/blob/output/github-snake-dark.svg)
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descAlign=50&animation=twinkling"/>
