@@ -28,10 +28,14 @@
 <br><br>
 <br><br>
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinbui16&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="kevinbui16" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevinbui16&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="kevinbui16" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinbui16&theme=neon&hide_border=false" alt="kevinbui16" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Kevinbui16&&theme=radical" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Kevinbui16&&theme=sunset_dark" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Kevinbui16&&theme=dracula" alt="Top Languages" />
+</div>
 
 # 🚀 Featured Projects
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
