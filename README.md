@@ -23,9 +23,9 @@
 <a href="https://www.instagram.com/bkhooinguyeen/">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://codepen.io/B-i-Nguy-n">
+<!-- <a href="https://codepen.io/B-i-Nguy-n">
   <img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
@@ -45,7 +45,12 @@
 </div>
 
 
-# 📊 GitHub Stats:
+<div align="center">
+
+# 📊 GitHub Stats
+
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Kevinbui16&&theme=radical" alt="GitHub Streak" />
 </div>
@@ -55,7 +60,13 @@
   <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Kevinbui16&&theme=dracula" alt="Top Languages" />
 </div>
 
+<div align="center">
+
 # 🚀 Featured Projects
+
+</div>
+
+
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis&theme=radical" />
