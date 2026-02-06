@@ -45,12 +45,9 @@
 </div>
 
 
-<div align="center">
+
 
 # 📊 GitHub Stats
-
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Kevinbui16&&theme=radical" alt="GitHub Streak" />
 </div>
@@ -60,13 +57,9 @@
   <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Kevinbui16&&theme=dracula" alt="Top Languages" />
 </div>
 
-<div align="center">
+
 
 # 🚀 Featured Projects
-
-</div>
-
-
 <a href="https://github.com/Kevinbui16/AdventureWorks-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Kevinbui16&repo=AdventureWorks-Data-Analysis&theme=radical" />
