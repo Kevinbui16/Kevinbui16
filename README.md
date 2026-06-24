@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Kevin+Bui;Automation+%26+AI+Specialist+at+H1+Healthcare;Vietnamese-Australian+🇻🇳🇦🇺+%7C+Based+in+Melbourne;Computer+Science+%40+Deakin+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Kevin+Bui;AI+Engineer+at+H1+Healthcare;Vietnamese-Australian+🇻🇳🇦🇺+%7C+Based+in+Melbourne;Computer+Science+%40+Deakin+University)](https://git.io/typing-svg)
 
 </div>
 
